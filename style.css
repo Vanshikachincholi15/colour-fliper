@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#fliper {
+  background-color: rgb(240, 128, 128);
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+button {
+  height: 5rem;
+  width: 12rem;
+  background-color: rgb(93, 243, 251);
+  border-radius: 10rem;
+  font-size: larger;
+  font-weight: 600;
+  color: rgb(64, 64, 64);
+}
